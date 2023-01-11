@@ -4,5 +4,8 @@ public class Main {
     public static void main(String[] args) {
 //        Frame frame = new Frame();
         System.out.println("tiapa, nu merge nimic");
+        System.out.println("tiapa, nu merge nimic");
+        System.out.println("tiapa, nu merge nimic");
+        System.out.println("tiapa, nu merge nimic");
     }
 }
